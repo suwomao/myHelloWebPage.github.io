@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[678],{704:function(e,t,r){"use strict";r.r(t),r.d(t,{default:function(){return n}});var l=r(294);function n(){return l.createElement("div",null,"大宝宝真大")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-ff64303f0003da6cfcf2.js.map
